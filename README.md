@@ -1,2 +1,4 @@
-# Cloud-notes
-AWS
+General notes
+- Cloud
+- DSA
+- OS
